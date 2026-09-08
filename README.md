@@ -176,4 +176,6 @@ A citation entry will be added upon publication of the associated preprint.
 
 ## License
 
-License information will be added before the public release of the repository.
+The source code in this repository is released under the MIT License. See the `LICENSE` file for details.
+
+Third-party content and data are subject to their respective original terms and are not covered by the MIT License unless explicitly stated otherwise.
