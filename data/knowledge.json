@@ -1,0 +1,94 @@
+{
+  "dataset": {
+    "name": "emotional_states_es",
+    "version": "1.0",
+    "language": "es",
+    "domain": "estados emocionales y sentimientos",
+    "source": {
+      "name": "Diccionario de la lengua española",
+      "publisher": "Real Academia Española"
+    }
+  },
+  "knowledge": [
+    {
+      "id": "illusion",
+      "term": "ilusión",
+      "sense": 2,
+      "definition": "Esperanza cuyo cumplimiento parece especialmente atractivo."
+    },
+    {
+      "id": "sadness",
+      "term": "tristeza",
+      "sense": 1,
+      "definition": "Cualidad de triste.",
+      "reference": {
+        "term": "triste",
+        "sense": 1,
+        "definition": "Afligido, apesadumbrado."
+      }
+    },
+    {
+      "id": "anguish",
+      "term": "angustia",
+      "sense": 1,
+      "definition": "Aflicción, congoja, ansiedad."
+    },
+    {
+      "id": "apathy",
+      "term": "apatía",
+      "sense": 1,
+      "definition": "Impasibilidad del ánimo."
+    },
+    {
+      "id": "joy",
+      "term": "alegría",
+      "sense": 1,
+      "definition": "Sentimiento grato y vivo que suele manifestarse con signos exteriores."
+    },
+    {
+      "id": "excitement",
+      "term": "excitación",
+      "sense": 1,
+      "definition": "Acción y efecto de excitar.",
+      "reference": {
+        "term": "excitar",
+        "sense": 1,
+        "definition": "Provocar o producir una reacción o una respuesta en algo o en alguien."
+      }
+    },
+    {
+      "id": "passion",
+      "term": "pasión",
+      "sense": 7,
+      "definition": "Apetito de algo o afición vehemente a ello."
+    },
+    {
+      "id": "infatuation",
+      "term": "enamoramiento",
+      "sense": 1,
+      "definition": "Acción y efecto de enamorar o enamorarse.",
+      "reference": {
+        "term": "enamorar",
+        "sense": 1,
+        "definition": "Despertar en alguien un sentimiento amoroso."
+      }
+    },
+    {
+      "id": "melancholy",
+      "term": "melancolía",
+      "sense": 1,
+      "definition": "Tristeza vaga, profunda, sosegada y permanente, nacida de causas físicas o morales, que hace que quien la padece no encuentre gusto ni diversión en nada."
+    },
+    {
+      "id": "serenity",
+      "term": "serenidad",
+      "sense": 1,
+      "definition": "Cualidad de sereno.",
+      "reference": {
+        "term": "sereno",
+        "sense": 2,
+        "definition": "Apacible, sosegado, sin turbación física o moral."
+      }
+    }
+  ]
+}

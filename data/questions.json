@@ -1,0 +1,166 @@
+{
+  "dataset": {
+    "name": "cag_register_questions_es",
+    "version": "1.0",
+    "language": "es",
+    "registers": [
+      "formal",
+      "colloquial"
+    ],
+    "task_types": [
+      "definition",
+      "concept_identification"
+    ]
+  },
+  "questions": [
+    {
+      "id": "illusion_definition_01",
+      "target": "illusion",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por ilusión?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de tener ilusión?"
+    },
+    {
+      "id": "illusion_identification_01",
+      "target": "illusion",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se caracteriza por una esperanza cuyo cumplimiento parece especialmente atractivo?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de esperar algo que tienes muchísimas ganas de que se cumpla?"
+    },
+
+    {
+      "id": "sadness_definition_01",
+      "target": "sadness",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por tristeza?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de estar triste?"
+    },
+    {
+      "id": "sadness_identification_01",
+      "target": "sadness",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se corresponde con estar afligido o apesadumbrado?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de estar afligido o con mucho pesar?"
+    },
+
+    {
+      "id": "anguish_definition_01",
+      "target": "anguish",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por angustia?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de sentir angustia?"
+    },
+    {
+      "id": "anguish_identification_01",
+      "target": "anguish",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se define mediante la aflicción, la congoja y la ansiedad?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de sentir aflicción, congoja y ansiedad?"
+    },
+
+    {
+      "id": "apathy_definition_01",
+      "target": "apathy",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por apatía?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de estar apático?"
+    },
+    {
+      "id": "apathy_identification_01",
+      "target": "apathy",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se caracteriza por la impasibilidad del ánimo?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de que tu ánimo se quede como impasible?"
+    },
+
+    {
+      "id": "joy_definition_01",
+      "target": "joy",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por alegría?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de sentir alegría?"
+    },
+    {
+      "id": "joy_identification_01",
+      "target": "joy",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada consiste en un sentimiento grato y vivo que suele manifestarse con signos exteriores?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de sentir algo muy grato y vivo que normalmente se te nota por fuera?"
+    },
+
+    {
+      "id": "excitement_definition_01",
+      "target": "excitement",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por excitación?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de sentir excitación?"
+    },
+    {
+      "id": "excitement_identification_01",
+      "target": "excitement",
+      "type": "concept_identification",
+      "formal": "¿Qué concepto de los incluidos en la información proporcionada hace referencia a la acción y efecto de provocar o producir una reacción o una respuesta en algo o en alguien?",
+      "colloquial": "De lo que aparece ahí, ¿cómo se llama eso de provocar que algo o alguien reaccione o responda?"
+    },
+
+    {
+      "id": "passion_definition_01",
+      "target": "passion",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por pasión?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de sentir pasión por algo?"
+    },
+    {
+      "id": "passion_identification_01",
+      "target": "passion",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se define como el apetito de algo o una afición vehemente hacia ello?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de tener muchísimas ganas de algo o una afición muy fuerte por ello?"
+    },
+
+    {
+      "id": "infatuation_definition_01",
+      "target": "infatuation",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por enamoramiento?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de estar enamorado?"
+    },
+    {
+      "id": "infatuation_identification_01",
+      "target": "infatuation",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se relaciona con despertar en alguien un sentimiento amoroso?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de que alguien empiece a sentir algo amoroso por otra persona?"
+    },
+
+    {
+      "id": "melancholy_definition_01",
+      "target": "melancholy",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por melancolía?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de estar melancólico?"
+    },
+    {
+      "id": "melancholy_identification_01",
+      "target": "melancholy",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o sentimiento de los incluidos en la información proporcionada se caracteriza por una tristeza vaga, profunda, sosegada y permanente que impide encontrar gusto o diversión en nada?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de tener una tristeza profunda y tranquila que dura y hace que no disfrutes de nada?"
+    },
+
+    {
+      "id": "serenity_definition_01",
+      "target": "serenity",
+      "type": "definition",
+      "formal": "De acuerdo con la información proporcionada, ¿qué se entiende por serenidad?",
+      "colloquial": "Según lo que pone ahí, ¿qué es eso de estar sereno?"
+    },
+    {
+      "id": "serenity_identification_01",
+      "target": "serenity",
+      "type": "concept_identification",
+      "formal": "¿Qué estado o cualidad de los incluidos en la información proporcionada se corresponde con encontrarse apacible, sosegado y sin turbación física o moral?",
+      "colloquial": "De los que aparecen ahí, ¿cómo se llama eso de estar tranquilo, sosegado y sin nada que te perturbe?"
+    }
+  ]
+}

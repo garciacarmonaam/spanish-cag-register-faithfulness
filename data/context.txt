@@ -1,0 +1,33 @@
+Término: ilusión
+Definición (acepción 2): Esperanza cuyo cumplimiento parece especialmente atractivo.
+
+Término: tristeza
+Definición (acepción 1): Cualidad de triste.
+Referencia: triste (acepción 1): Afligido, apesadumbrado.
+
+Término: angustia
+Definición (acepción 1): Aflicción, congoja, ansiedad.
+
+Término: apatía
+Definición (acepción 1): Impasibilidad del ánimo.
+
+Término: alegría
+Definición (acepción 1): Sentimiento grato y vivo que suele manifestarse con signos exteriores.
+
+Término: excitación
+Definición (acepción 1): Acción y efecto de excitar.
+Referencia: excitar (acepción 1): Provocar o producir una reacción o una respuesta en algo o en alguien.
+
+Término: pasión
+Definición (acepción 7): Apetito de algo o afición vehemente a ello.
+
+Término: enamoramiento
+Definición (acepción 1): Acción y efecto de enamorar o enamorarse.
+Referencia: enamorar (acepción 1): Despertar en alguien un sentimiento amoroso.
+
+Término: melancolía
+Definición (acepción 1): Tristeza vaga, profunda, sosegada y permanente, nacida de causas físicas o morales, que hace que quien la padece no encuentre gusto ni diversión en nada.
+
+Término: serenidad
+Definición (acepción 1): Cualidad de sereno.
+Referencia: sereno (acepción 2): Apacible, sosegado, sin turbación física o moral.
