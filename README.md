@@ -183,7 +183,13 @@ Future work may extend the framework to larger datasets, additional Spanish vari
 
 ## Citation
 
-A citation entry will be added upon publication of the associated preprint.
+If you use this repository or build upon this work, please cite:
+
+García-Carmona, Á. M. (2026).
+Does Linguistic Register Affect Faithfulness in Spanish Cache-Augmented Generation?
+An Exploratory Study with Open-Source LLMs.
+Preprints.
+https://doi.org/10.20944/preprints202609.0733.v1
 
 ## License
 
