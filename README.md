@@ -1,5 +1,7 @@
 # Spanish CAG Register Faithfulness
 
+[![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202609.0733.v1-blue)](https://doi.org/10.20944/preprints202609.0733.v1)
+
 Reproducible experiments for evaluating **Faithfulness robustness in Cache-Augmented Generation (CAG)** when semantically equivalent queries are expressed in **formal and colloquial Spanish**.
 
 This repository contains the experimental resources, code, and results associated with the study:
@@ -190,6 +192,15 @@ Does Linguistic Register Affect Faithfulness in Spanish Cache-Augmented Generati
 An Exploratory Study with Open-Source LLMs.
 Preprints.
 https://doi.org/10.20944/preprints202609.0733.v1
+
+@article{garciacarmona2026linguistic,
+  author = {García-Carmona, Ángel Manuel},
+  title = {Does Linguistic Register Affect Faithfulness in Spanish Cache-Augmented Generation? An Exploratory Study with Open-Source LLMs},
+  year = {2026},
+  publisher = {Preprints},
+  doi = {10.20944/preprints202609.0733.v1},
+  url = {https://doi.org/10.20944/preprints202609.0733.v1}
+}
 
 ## License
 
