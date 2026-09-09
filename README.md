@@ -9,6 +9,17 @@ This repository contains the experimental resources, code, and results associate
 **Author:** Ángel Manuel García-Carmona  
 **ORCID:** 0009-0000-5959-4868
 
+## Preprint
+
+**Does Linguistic Register Affect Faithfulness in Spanish Cache-Augmented Generation? An Exploratory Study with Open-Source LLMs**
+
+Ángel Manuel García-Carmona (2026)
+
+Preprints  
+DOI: https://doi.org/10.20944/preprints202609.0733.v1
+
+📄 https://www.preprints.org/manuscript/202609.0733/v1
+
 ## Overview
 
 Large Language Model (LLM) applications must process user queries expressed through heterogeneous linguistic formulations. This study investigates whether changes in linguistic register affect the extent to which CAG responses remain supported by a fixed preloaded knowledge context.
